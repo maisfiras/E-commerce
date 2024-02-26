@@ -1,0 +1,237 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nave{
+    position: relative;
+    
+
+}
+.nav {
+    position: relative;
+    margin-left: 25%;
+    margin-top: -2%;
+    border: none;
+   
+}
+.colo{
+    text-decoration: none;
+    color: black;
+}
+.Search{
+    position: relative;
+    margin-top: -2%;
+    margin-left: 70%;
+}
+.Today{
+    position: relative;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.red{
+    position: relative;
+    margin-left: 2%;
+    margin-top: -2%;
+}
+.timar{
+    position: relative;
+    margin-left: 30%;
+    margin-top: -20%;
+}
+.checked{
+    color: orange;
+}
+.dark{
+    background-color: black;
+    font-size: smaller ;
+    color: azure;
+    height: 30px;
+    width: 150px
+    
+}
+.rel{
+    text-decoration: line-through;
+}
+.card-text{
+    font-size: smaller;
+}
+.dark2{
+ background-color: black;
+    font-size: smaller ;
+    color: azure;
+    height: 30px;
+    width: 150px
+}
+.bott{
+    position: relative;
+    margin-left: -3%;
+}
+  
+.rrrr{
+position: relative;
+margin-top: 2%;
+margin-left: 5%;
+}
+.eeee{
+    position: absolute;
+    margin-top: -50%;
+    margin-left:50%;
+}
+.el{
+    position: absolute;
+    margin-top:-40%;
+    margin-left : 10%;
+}
+.fgg{position: relative;
+
+}
+.uo{
+    position: absolute;
+    margin-top: -2%;
+    margin-left : 40%;
+}
+.we{
+    position: absolute;
+    margin-top: -30%;
+    margin-left : 10%;
+}
+.ty{
+    position: absolute;
+    margin-top: -17%;
+    margin-left : 10%;
+}
+.fgfgf{
+    position: absolute;
+    margin-top: -10%;
+    margin-left : 10%;
+}
+.PHO{
+    position: relative;
+    margin-left:-50%;
+
+}
+.you{
+    position: absolute;
+    margin-top: -38%;
+    margin-left: 3%;
+}
+.fff{
+    position: relative;
+    margin-left:46%;
+    margin-top: -55%;
+}
+.woman{
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 50%;
+}
+.trt{
+    position: relative;
+    margin-left:47%;
+    margin-top: 2%;
+}
+.try{
+    position: relative;
+    margin-left:77%;
+    margin-top: -21%;
+}
+.rrt{
+    position: relative;
+    margin-left:20%;
+    margin-top: -4%;
+    
+
+}
+.oof{
+    position: relative;
+    margin-left:50%;
+    margin-top: -21%;
+}
+.oon{
+    position: relative;
+    margin-left:77%;
+    margin-top: -20%;
+}
+.foota{
+    display: inline;
+    position: relative;
+
+}
+.foot{
+    display: inline;
+    position: absolute;
+    margin-top: -20%;
+    margin-left: -5px;
+}
+.footery{
+    position: absolute;
+    margin-left: 700px;
+   margin-top: -100px;
+}
+
+.footra{
+    position: relative;
+    margin-left: -400px;
+    margin-top: -21%;
+}
+.down{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: -10%;
+}
+.ffff{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: -10%;
+}
+
+
+.anglee{
+  
+    background-color: rgb(255, 255, 255);
+    border: 0;
+}
+.vbn{
+    display: inline;
+    margin-left: 90%;
+}
+
+.download{
+
+ position: relative;
+    margin-top: 1%;
+    margin-left: -20%;}
+
+    .fofofofot{
+
+position: relative;
+   
+    margin-left:-800px;}
+    .downloada{
+        position: relative;
+        margin-top: 8%;
+        margin-left: -20%;}
+
+        .play{
+            position: absolute;
+            margin-top:-10%;
+            margin-left: 6%;
+
+        }
+        .feat{
+            position: absolute;
+            margin-top:-30%;
+            margin-left: 40%;
+        }
+        .speakers{
+            position: absolute;
+            margin-top:-12%;
+            margin-left: 44%;
+        }
+        .perfume{
+            position: absolute;
+            margin-top:-12%;
+            margin-left: 66%;
+        }
+        
+       
