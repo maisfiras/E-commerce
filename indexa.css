@@ -9,3 +9,14 @@
     margin-top: 12%;
     margin-left: -20%;
 }
+.nav {
+    position: relative;
+    margin-left: 25%;
+    margin-top: -2%;
+    border: none;
+   
+}
+.colo{
+    text-decoration: none;
+    color: black;
+}
